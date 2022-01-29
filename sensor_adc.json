@@ -1,0 +1,10 @@
+{
+  "name": "Temperature sensor with 14-bits ADC output",
+  "rate": 10,
+  "avg": 2,
+  "std": 0.1,
+  "normal": true,
+  "format": "adc",
+  "nbits": 14,
+  "ref_volt": 3.3
+}
